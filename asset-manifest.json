@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eto-pages-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/eto-pages-react/static/js/main.9294b756.chunk.js",
+    "main.js.map": "/eto-pages-react/static/js/main.9294b756.chunk.js.map",
+    "runtime-main.js": "/eto-pages-react/static/js/runtime-main.5e79d577.js",
+    "runtime-main.js.map": "/eto-pages-react/static/js/runtime-main.5e79d577.js.map",
+    "static/js/2.425d6b9d.chunk.js": "/eto-pages-react/static/js/2.425d6b9d.chunk.js",
+    "static/js/2.425d6b9d.chunk.js.map": "/eto-pages-react/static/js/2.425d6b9d.chunk.js.map",
+    "index.html": "/eto-pages-react/index.html",
+    "precache-manifest.b59f3bddbd714885bbab22111b3c15aa.js": "/eto-pages-react/precache-manifest.b59f3bddbd714885bbab22111b3c15aa.js",
+    "service-worker.js": "/eto-pages-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/eto-pages-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.425d6b9d.chunk.js.LICENSE.txt": "/eto-pages-react/static/js/2.425d6b9d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/eto-pages-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e79d577.js",
+    "static/js/2.425d6b9d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9294b756.chunk.js"
+  ]
+}
